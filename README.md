@@ -171,13 +171,7 @@
     </a>
   </p>
 
-  <h3>📈 Top Languages</h3>
-
-  <p align="center">
-    <a href="https://github-readme-stats.vercel.app">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun2226&layout=compact&theme=dark&hide_border=false&count_private=false" height="192px"/>
-    </a>
-  </p>
+ 
 
   <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/">
