@@ -53,9 +53,7 @@
   <a href="https://github.com/Tharun2226?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Tharun2226?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img alt="profile views" title="Profile views" src="https://visitcount.itsvg.in/api?id=Tharun2226&icon=0&color=0"/>
-  </a>
+
 </p>
 
 <br/>
