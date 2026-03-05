@@ -1,21 +1,26 @@
 name: Generate Snake
-on: 
-  # Allows to manually run the job at any time.
+
+on:
+  # run automatically once a day
+  schedule:
+    - cron: "0 0 * * *"
+  # and allow manual runs
   workflow_dispatch:
-  # Run on every push on the default branch.
-  push:
-    branches:
-      - main
-      - master
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       # Generates a snake game from a GitHub user's contributions graph.
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3.0.0
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -24,7 +29,7 @@ jobs:
 
       # Push the generated files to the output branch.
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
