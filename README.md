@@ -53,8 +53,8 @@
   <a href="https://github.com/Tharun2226?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Tharun2226?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img alt="profile views" title="Profile views" src="https://visitcount.itsvg.in/api?id=Tharun2226&icon=0&color=0"/>
+  <a href="https://komarev.com/ghpvc/?username=Tharun2226&style=for-the-badge&color=0e75b6&label=Profile%20Views">
+    <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=Tharun2226&style=for-the-badge&color=0e75b6&label=Profile%20Views"/>
   </a>
 </p>
 
@@ -176,8 +176,8 @@
   <h3>📈 Top Languages</h3>
 
   <p align="center">
-    <a href="https://github-readme-stats.vercel.app">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun2226&layout=compact&theme=dark&hide_border=false&count_private=false" height="192px"/>
+    <a href="https://github-profile-summary-cards.vercel.app">
+      <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tharun2226&theme=radical" height="192px" />
     </a>
   </p>
 
