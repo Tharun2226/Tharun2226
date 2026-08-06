@@ -7,11 +7,11 @@
 
 <br>
 
-- 😄 I’m interested in full‑stack development, cloud, and clean architecture  
-- 🔭 I’m currently working on full‑stack web applications and personal projects  
-- 🌱 I’m currently learning better Git workflows, API design, and database optimization  
-- 👯 I’m looking to collaborate on real‑world web apps and open‑source projects  
-- 💬 Ask me about Angular, React, .NET Core, Node.js, SQL Server, and MySQL  
+-  I’m interested in full‑stack development, cloud, and clean architecture  
+-  I’m currently working on full‑stack web applications and personal projects  
+-  I’m currently learning better Git workflows, API design, and database optimization  
+-  I’m looking to collaborate on real‑world web apps and open‑source projects  
+-  Ask me about Angular, React, .NET Core, Node.js, SQL Server, and MySQL  
 
 <br>
 
